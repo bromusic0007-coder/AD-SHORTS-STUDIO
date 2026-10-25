@@ -2,5 +2,5 @@ streamlit
 edge-tts
 numpy
 pillow
-moviepy
+moviepy==1.0.3
 imageio-ffmpeg

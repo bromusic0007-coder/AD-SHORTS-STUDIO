@@ -1,6 +1,6 @@
 streamlit
 edge-tts
-numpy
+numphy
 pillow
 moviepy
 imageio-ffmpeg
